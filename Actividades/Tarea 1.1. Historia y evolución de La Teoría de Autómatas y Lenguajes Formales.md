@@ -1,4 +1,4 @@
-| Característica     | Producto A | Producto B | Producto C |
+| Aportador     | Descripcion | Aporte | Año |
 |--------------------|------------|------------|------------|
 | Precio             | $10        | $15        | $12        |
 | Calidad            | Alta       | Media      | Alta       |
