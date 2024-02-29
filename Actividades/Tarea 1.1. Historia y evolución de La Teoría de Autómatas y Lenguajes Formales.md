@@ -7,4 +7,4 @@
 | Teoría de la información| Creó la teoría matemática de la comunicación, introduciendo conceptos como la entropía de la información y el código de Shannon-Fano.| Rojo | Claude Shannon|
 | Teoría de autómatas celulares| Desarrolló un modelo matemático que consiste en una cuadrícula de celdas, donde cada celda cambia de estado según reglas locales y el estado de sus vecinos. | 2 kg       | John von Neumann     |
 | Compiladores        | Desarrolló el primer compilador de programación de alto nivel, el A-0 System, sentando las bases para los compiladores modernos.| 6 meses | Grace Hopper|
-| Gramáticas Formales | Propuso la jerarquía de Chomsky, una clasificación de gramáticas formales en cuatro niveles según su poder expresivo. | No         | Noam Chomsky |
+| Gramáticas Formales | Comienza el estudio formal de la gramatica, proponiendo la jerarquía de Chomsky, una clasificación de gramáticas formales en cuatro niveles según su poder expresivo. | No         | Noam Chomsky |
