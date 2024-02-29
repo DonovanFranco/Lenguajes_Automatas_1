@@ -1,4 +1,4 @@
-| Aportador     | Descripcion | Aporte | Año |
+| Aportador     | Descripcion | Año | Aporte |
 |---------------------|---------------------|------------|------------|
 | Funciones Recursivas| Definió un conjunto de funciones que pueden ser definidas de forma recursiva, un concepto clave en la teoría de la computabilidad.|1920s-1940s |Emil Post  |
 | Máquina de Turing   | Propuso un modelo abstracto de computación que consistía en una cinta infinita y un cabezal de lectura/escritura.       | 1936 | Alan Turing  |
