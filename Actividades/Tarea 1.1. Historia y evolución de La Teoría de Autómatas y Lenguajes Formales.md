@@ -4,10 +4,12 @@
 - **Materia**: Lenguajes y Automatas I
 
 ## Aportes a la Teoria de Automatas
+La teoría de autómatas estudia modelos abstractos de computación, como autómatas finitos, autómatas de pila y máquinas de Turing. Proporciona un marco conceptual para entender la computabilidad y la complejidad computacional, siendo fundamental en áreas como la verificación de software, la inteligencia artificial y la compilación de lenguajes de programación.
+
 
 En el siguiente cuadro comparativo se describen los aportes de los principales investigadores que sustentaron la Teoría de Autómatas.
 
-| Aportador     | Descripcion | Año | Aporte |
+| ***Aportador***     | ***Descripcion*** | ***Año*** | ***Aporte*** |
 |---------------------|---------------------|------------|------------|
 | Funciones Recursivas| Definió un conjunto de funciones que pueden ser definidas de forma recursiva, un concepto clave en la teoría de la computabilidad.|1920s-1940s |Emil Post  |
 | Máquina de Turing   | Propuso un modelo abstracto de computación que consistía en una cinta infinita y un cabezal de lectura/escritura.       | 1936 | Alan Turing  |
