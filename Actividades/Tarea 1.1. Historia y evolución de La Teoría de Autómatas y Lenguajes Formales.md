@@ -1,5 +1,11 @@
-# Tarea 1.1. Historia y evolución de La Teoría de Autómatas y &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lenguajes Formales
+# ***Tarea 1.1. Historia y evolución de La Teoría de Autómatas y*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Lenguajes Formales***
+- **Alumno**:Franco Flores Donovan Urazh
+- **Numero de control**: 21200596
+- **Materia**: Lenguajes y Automatas I
 
+## Aportes a la Teoria de Automatas
+
+En el siguiente cuadro comparativo se describen los aportes de los principales investigadores que sustentaron la Teoría de Autómatas.
 
 | Aportador     | Descripcion | Año | Aporte |
 |---------------------|---------------------|------------|------------|
