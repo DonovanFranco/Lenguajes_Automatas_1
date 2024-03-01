@@ -21,7 +21,10 @@ En el siguiente cuadro comparativo se describen los aportes de los principales i
 | Gramáticas Formales | Comienza el estudio formal de la gramatica, proponiendo la jerarquía de Chomsky, una clasificación de gramáticas formales en cuatro niveles según su poder expresivo. | 1950s  | Noam Chomsky |
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conclusion
-Comprender las bases de los Lenguajes Automatas, sus raices y el como se viene manejando y evolucionando desde decadas nos pone un poco en ocntexto de todo por lo que se ha pasado para llegar a todo lo que tenemos hoy en dia, dandonos las bases del conocimiento teorico de este tema y en parte de la materia que se llevara a lo largo del curso.
+Comprender las bases de los Lenguajes Automatas, sus raices y el como se viene manejando y evolucionando desde decadas nos pone un poco en contexto de todo por lo que se ha pasado para llegar a todo lo que tenemos hoy en dia, dandonos las bases del conocimiento teorico de este tema y en parte de la materia que se llevara a lo largo del curso.
 
 ##Referencias
 
+- Herrera, A. (2019, 3 abril). GoCONQR - Historia y evolución de la teoría de autómatas y lenguajes formales. GoConqr. Recuperado 29 de febrero de 2024, de https://www.goconqr.com/es/mapamental/10631292/historia-y-evolucion-de-la-teoria-de-automatas-y-lenguajes-formales
+- Prezi, A. C. S. O. (2020, 5 septiembre). HISTORIA y EVOLUCIÓN DE LA TEORÍA DE AUTÓMATAS y LENGUAJES f. prezi.com. Recuperado 29 de febrero de 2024, de https://prezi.com/3bgywspgxblf/historia-y-evolucion-de-la-teoria-de-automatas-y-lenguajes-f/
+- Timetoast. (2013, abril). historia y evolución de la teoría de autómatas y lenguajes formales timeline. Timetoast Timelines. Recuperado 29 de febrero de 2024, de https://www.timetoast.com/timelines/historia-y-evolucion-de-la-teoria-de-automatas-y-lenguajes-formales
