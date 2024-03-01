@@ -3,7 +3,7 @@
 - **Numero de control**: 21200596
 - **Materia**: Lenguajes y Automatas I
 
-## Aportes a la Teoria de Automatas
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aportes a la Teoria de Automatas
 La teoría de autómatas estudia modelos abstractos de computación, como autómatas finitos, autómatas de pila y máquinas de Turing. Proporciona un marco conceptual para entender la computabilidad y la complejidad computacional, siendo fundamental en áreas como la verificación de software, la inteligencia artificial y la compilación de lenguajes de programación.
 
 
