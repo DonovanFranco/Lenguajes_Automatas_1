@@ -1,4 +1,4 @@
-# Tarea 1.1. Historia y evolución de La Teoría de Autómatas y Lenguajes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Formales
+# Tarea 1.1. Historia y evolución de La Teoría de Autómatas y &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lenguajes Formales
 
 
 | Aportador     | Descripcion | Año | Aporte |
