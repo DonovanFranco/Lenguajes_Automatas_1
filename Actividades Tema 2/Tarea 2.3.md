@@ -22,4 +22,24 @@ El programa consta de dos partes principales:
 El programa solicita al usuario que ingrese una contraseña y un nombre de usuario desde el teclado. Luego, utiliza las expresiones regulares para validar los datos ingresados y muestra un mensaje indicando si la 
 contraseña y el nombre de usuario son válidos o no.
 
-## Ejemplo de Uso
+## Aplicacion
+
+**Codigo para la verificacion de usuario y contraseña**
+
+![imagen](https://github.com/DonovanFranco/Lenguajes_Automatas_1/assets/161343179/f7eec3dd-e85b-4b4a-b972-abe8d10da059)
+
+1. **Contraseña**
+
+A continuacion el codigo de la verificacion de la contraseña.
+
+![imagen](https://github.com/DonovanFranco/Lenguajes_Automatas_1/assets/161343179/03b6d017-4078-4321-84aa-4567cb207119)
+
+2. **Usuario**
+A continuacion el codigo de la verificacion del usuario.
+
+![imagen](https://github.com/DonovanFranco/Lenguajes_Automatas_1/assets/161343179/295cf7bc-4a0c-4848-8559-7647fd7734e0)
+
+3. **Verificacion de correcto funcionamiento**
+A continuacion las pruebas de correcto funcionamiento.
+
+![imagen](https://github.com/DonovanFranco/Lenguajes_Automatas_1/assets/161343179/39b19920-7968-4786-9fa2-d07bba8a2523)
