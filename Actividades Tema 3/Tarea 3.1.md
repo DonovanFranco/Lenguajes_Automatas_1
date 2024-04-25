@@ -38,3 +38,8 @@ f) El lenguaje donde toda cadena contiene por separado a las cadenas ab y ba.
 g) Toda cadena es de longitud impar y contiene una cantidad par de as.
 
 ![imagen](https://github.com/DonovanFranco/Lenguajes_Automatas_1/assets/161343179/f028cfea-8778-4fd4-8b33-afd8f44cdc9c)
+
+
+## Conclusion
+
+Los Autómatas Finitos Deterministas (AFD) son útiles y eficientes para reconocer patrones en cadenas de texto de manera determinista, siendo especialmente útiles en análisis léxico, procesamiento de lenguaje natural y verificación de sintaxis en sistemas de validación de datos. Aunque su expresividad es limitada en comparación con otros modelos más complejos, su simplicidad y claridad los hacen valiosos en una variedad de aplicaciones.
